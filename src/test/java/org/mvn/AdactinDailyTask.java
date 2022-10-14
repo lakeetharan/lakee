@@ -130,7 +130,9 @@ public class AdactinDailyTask extends BaseClass {
 		String text = TextInsert(orderId);
 		System.out.println(text);
 		createexcel("adactindata", 1, 18, text);
-		
+		System.out.println(text);
+		System.out.println(text);
+
 	
 	
 	
