@@ -132,7 +132,9 @@ public class AdactinDailyTask extends BaseClass {
 		createexcel("adactindata", 1, 18, text);
 		System.out.println(text);
 
-	
+		System.out.println("Elan");
+		System.out.println(text);
+
 	
 	
 		
