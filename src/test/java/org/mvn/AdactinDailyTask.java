@@ -131,7 +131,6 @@ public class AdactinDailyTask extends BaseClass {
 		System.out.println(text);
 		createexcel("adactindata", 1, 18, text);
 		System.out.println(text);
-		System.out.println(text);
 
 	
 	
